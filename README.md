@@ -17,3 +17,5 @@ A repository showcasing practical examples and exercises using langgraph for var
 - [How to add persistence ("memory") to your graph](How%20to%20add%20persistence%20("memory")%20to%20your%20graph.ipynb)
 - [How to add breakpoints](How%20to%20add%20breakpoints.ipynb)
 - [How to wait for user input](/How%20to%20wait%20for%20user%20input.ipynb)
+- [How to view and update past graph state](How%20to%20view%20and%20update%20past%20graph%20state.ipynb)
+- [How to edit graph state](How%20to%20edit%20graph%20state.ipynb)
