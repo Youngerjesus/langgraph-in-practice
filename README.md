@@ -5,6 +5,8 @@ A repository showcasing practical examples and exercises using langgraph for var
 
 - [agent_supervisor](agent_supervisor.ipynb)
 - [multi-agent-collaboration](multi-agent-collaboration.ipynb)
+- [How to manage agents steps](How%20to%20manage%20agent%20steps.ipynb)
+- [Hierarchical Agent Teams](Hierarchical%20Agent%20Teams.ipynb)
 
 ## Controllability
 
