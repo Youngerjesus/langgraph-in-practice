@@ -9,6 +9,8 @@ A repository showcasing practical examples and exercises using langgraph for var
 - [Hierarchical Agent Teams](Hierarchical%20Agent%20Teams.ipynb)
 - [Reflection](reflection.ipynb)
 - [Reflextion](reflextion.ipynb)
+- [Plan and Execute](Plan%20and%20Execute.ipynb)
+
 
 ## Controllability
 
